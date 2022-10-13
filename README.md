@@ -1,2 +1,2 @@
 # IT005-Practice
-This is a place to store report of IT005
+This is IT005's Report Storage
