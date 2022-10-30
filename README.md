@@ -12,9 +12,9 @@
 * **Lecture name:** Introduction to Computer Network
 * **Lecture Code:** IT005
 * **Class Code:** IT005.N11.KHTN
-* **Year:** Semester 1(2021 - 2022)
+* **Year:** Semester 1(2022 - 2023)
 * **Lecturer**:  
-  - Nguyễn Tấn Hoàng Phước - *phuocnth@uit.edu.vn*  
-  - Phan Trung Phát - *phatpt@uit.edu.vn*
+  - Theory - Nguyễn Tấn Hoàng Phước - *phuocnth@uit.edu.vn*  
+  - Practice - Phan Trung Phát - *phatpt@uit.edu.vn*
 <!-- Footer -->
-<p align='center'>Copyright © 2021 - Lương Toàn Bách</p>
+<p align='center'>Copyright © 2022 - Lương Toàn Bách</p>
